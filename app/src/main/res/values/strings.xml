@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HiddenCalculatorHW</string>
+    <string name="calculator">Калькулятор</string>
+    <string name="operand">Операнд</string>
+    <string name="sum">+</string>
+    <string name="dif">-</string>
+    <string name="mult">*</string>
+    <string name="div">/</string>
+    <string name="transferData">Передать даные</string>
+    <string name="result">Результат</string>
+</resources>
